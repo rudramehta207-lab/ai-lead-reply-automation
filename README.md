@@ -1,5 +1,8 @@
 # AI Lead-Reply Automation System
 
+**Live Demo:** [ai-lead-reply-automation.onrender.com](https://ai-lead-reply-automation.onrender.com)  
+*(Hosted on Render's free tier — first load may take ~1 minute to wake up. Please use dummy details when testing.)*
+
 A lightweight Python and Flask web application that automatically responds to customer inquiries using the Google Gemini REST API and logs every lead into an Excel-compatible CSV file.
 
 ## Features
